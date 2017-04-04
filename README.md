@@ -2,6 +2,23 @@
 
 Test
 
+## Number of experiments 
+
+There might be wondering of the reason of 30 experiments for each permutation. The reason for 30 is explained by the calculation of the statistical sample without information of the population, using the following formula:
+
+![formula](http://imgur.com/a/3gzqP)
+
+## Plot file
+
+The plot file is a python script which plots the text files.
+
+
+Instruction of usage is as follows:
+
+    ```shell
+    python plot.py -i directory/file.txt
+    ```
+
 ## Files Taxonomy
 
 layout_ghostType_numGhosts_pacmanType_noise_commType_expNumber.txt
