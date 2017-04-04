@@ -6,7 +6,7 @@ Test
 
 There might be wondering of the reason of 30 experiments for each permutation. The reason for 30 is explained by the calculation of the statistical sample without information of the population, using the following formula:
 
-![formula](http://imgur.com/a/3gzqP)
+<img src="http://i.imgur.com/oF4E4WD.png" data-canonical-src="http://i.imgur.com/oF4E4WD.png" width="250" height="100" />
 
 ## Plot file
 
