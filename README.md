@@ -15,7 +15,7 @@ The plot file is a python script which plots the text files.
 
 Instruction of usage is as follows:
 
-    ```bash
+    ```sh
     python plot.py -i directory/file.txt
     ```
 
