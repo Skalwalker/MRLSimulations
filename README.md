@@ -1,6 +1,8 @@
 # MultiagentRL_Simulations
 
-Test
+To passersby and users of Matheus Portela's Multiagent Reinforcment Learning Simulator, this repository is inteded to be an exaustive and complete gather of all possible permutations of experiments provided by the simulator. For every permutation it will have 30 repetitions to ensure the result analysis is ideal. The instructions for using this repository is indicated bellow in the plot file, files taxonomy amd directories tree section.
+
+**Enjoy & Contribute**
 
 ## Number of experiments 
 
